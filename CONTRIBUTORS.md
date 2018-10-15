@@ -459,6 +459,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student
 - GitHub: [cameronzsmith](https://github.com/cameronzsmith)
 
+#### Name: [Camille Kloppenburg](https://github.com/3n1gmat1c)
+- Place: Ontario, Canada
+- Bio: InfoSec, re-learning coding
+- GitHub: [3n1gmat1c](https://github.com/3n1gmat1c)
+
 #### Name: [Campion Fellin](https://github.com/campionfellin)
 - Place: Seattle, WA, USA
 - Bio: I love open source and coffee! New grad looking for work!
